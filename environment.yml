@@ -1,0 +1,16 @@
+name: capella
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - datashader
+  - folium
+  - geopandas
+  - httpx
+  - hvplot
+  - matplotlib-base
+  - numpy
+  - pystac
+  - rasterio
+  - rioxarray
+  - stackstac
